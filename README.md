@@ -6,15 +6,12 @@
         <link rel="stylesheet" href="style.css">
 
         <style>
-        p{
-        	text-align:center
-        } 
-
+        
         </style>
     </head>
 ; 
     <body>
-        <h1 style="text-align:center;>Sobre a Barbearia Alura</h1>
+        <h1 style="text-align:center; ">Sobre a Barbearia Alura</h1>
 
         <p>Localizada no coração da cidade a <strong>Barbearia Alura</strong> traz para o mercado o que há de melhor para o seu cabelo e barba. 
         Fundada em 2019, a Barbearia Alura já é destaque na cidade e ssconquista novos clientes a cada dia.</p>
@@ -28,11 +25,15 @@
 .
 .
 .
-body {
-     	;background: #cccccc
-     }
+.
+body{ 
+  background: #cccccc
+
+}
 
 p{
-        	text-align:center;
-
-        }
+     text-align:center;
+}
+strong {
+     color: red;
+}
