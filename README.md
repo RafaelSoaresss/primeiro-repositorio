@@ -23,3 +23,22 @@
 .
 .
 .
+body {
+    background: #CCCCCC;
+}
+
+h1 {
+  text-align: center;
+}
+
+P {
+	text-align: center;
+}
+
+#missao {
+	font-size: 20px
+}
+
+em strong {
+   color: #FF0000;
+}
