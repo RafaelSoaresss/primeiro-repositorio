@@ -7,6 +7,8 @@
     </head>
   
     <body>
+        <img id="banner" src="banner.jpg">
+
         <img srca="banner.jpg">    
 
         <h1 style="text-align: center">Sobre a Barbearia Alura</h1>
@@ -25,6 +27,10 @@
 .
 body {
     background: #CCCCCC;
+}
+
+#banner{
+   width: 100%;
 }
 
 h1 {
